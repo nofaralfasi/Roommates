@@ -1,0 +1,31 @@
+package Application;
+
+public interface AgileRoommatesFinals {
+	final static String TITLE = "Agile-Roommates";
+	final static String STYLES_CSS = "styles.css";
+	final static String FILE_NAME = "roomates.dat";
+	final static String FILE_MODE = "rw";
+	//final static String ADD = "Add";
+	final static String SHOPPING_LIST = "Shopping List"; // FIRST 
+	final static String CASH_BOX = "Cash Box"; // NEXT
+	final static String MESSAGES = "Messages"; // PREVIOUS 
+//	final static String LAST = "Last";
+	//final static String CLEAR = "Clear";
+//	final static String REVERSE = "Reverse";
+	//final static String ZIP = "Zip";
+	final static String APARTMENT_ID = "Apartment ID"; // NAME 
+	final static String USER_ID = "User ID"; // STREET 
+	//final static String CITY = "City";
+	//final static String STATE = "State";
+	final static int NUMBER_OF_PANES = 2;
+	final static int APARTMENT_ID_SIZE = 32; // NAME_SIZE 
+	final static int USER_ID_SIZE = 32;
+	/*
+	final static int CITY_SIZE = 20;
+	final static int STATE_SIZE = 2;
+	final static int ZIP_SIZE = 5;
+	*/
+	final static int RECORD_SIZE = (APARTMENT_ID_SIZE + USER_ID_SIZE); // + CITY_SIZE + STATE_SIZE + ZIP_SIZE);
+	final static String STYLE_COMMAND = "-fx-border-color: grey;" + " -fx-border-width: 1;"
+			+ " -fx-border-style: solid outside ;";
+}
