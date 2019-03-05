@@ -6,16 +6,16 @@ Login Screen:
 
 Welcome Screen:
 
-![roomates2](https://user-images.githubusercontent.com/38184193/53826163-b06fee00-3f80-11e9-81cf-6a5d21462b93.png)
+![roomates2](https://user-images.githubusercontent.com/38184193/53826453-4ad03180-3f81-11e9-897e-6ab2677f5b20.png)
 
 Shopping-List Screen:
 
-![roomates5](https://user-images.githubusercontent.com/38184193/53826178-bbc31980-3f80-11e9-84f8-91f49c5a75d9.png)
+![roomates5](https://user-images.githubusercontent.com/38184193/53826463-515ea900-3f81-11e9-8e00-d3a998956b97.png)
 
 Cash-Box Screen:
 
-![roomates3](https://user-images.githubusercontent.com/38184193/53826172-b796fc00-3f80-11e9-9df2-0f902d75c97c.png)
+![roomates3](https://user-images.githubusercontent.com/38184193/53826457-4d328b80-3f81-11e9-98ca-edc6e5029c59.png)
 
 Messages Screen:
 
-![roomates4](https://user-images.githubusercontent.com/38184193/53826176-b960bf80-3f80-11e9-8e4a-21c902f817e0.png)
+![roomates4](https://user-images.githubusercontent.com/38184193/53826460-4f94e580-3f81-11e9-961d-6356d9a9b395.png)
